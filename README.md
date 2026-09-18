@@ -67,5 +67,10 @@ jpackage --name "CAT-Calculator" --input . --main-jar CatCalculator.jar --main-c
 
 ---
 
+## Contributing
+Contributions, bug reports, and enhancements are welcome! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for the developer setup, architecture walkthrough, and Pull Request guidelines.
+
+---
+
 ## License
 MIT License
