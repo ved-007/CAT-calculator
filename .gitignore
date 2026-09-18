@@ -1,0 +1,8 @@
+bin/
+dist/
+*.log
+*.png
+*.tmp
+take_screenshot.ps1
+calciLogic_dump.js
+style_dump.css
