@@ -6,3 +6,4 @@ dist/
 take_screenshot.ps1
 calciLogic_dump.js
 style_dump.css
+*.zip
